@@ -9,11 +9,14 @@ Lien (partie *Committing Your Changes* ): https://git-scm.com/book/en/v2/Git-Bas
 
 ## [checkout]
 Permet de changer de branche de travail.
+Lien ( ):
 
 ## [branch]
 Permet de créer une nouvelle branche à partir qui prendra comme base la branche sur lequel on se trouve.
+Lien ( ):
 
 ## [push]
 Permet de pousser sa branche sur un dépôt distant.
+Lien ( ):
 
 ## []
