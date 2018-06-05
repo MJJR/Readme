@@ -26,6 +26,12 @@ Permet de lister, ou de supprimer des branches.
 
 *Lien de documentation : https://git-scm.com/docs/git-branch*
 
+## **clone**  
+
+Permet de de cloner un repository distant en local pour de l'édition.  
+
+*Lien de documentation : https://git-scm.com/docs/git-clone*  
+
 
 ## **clean**
 
