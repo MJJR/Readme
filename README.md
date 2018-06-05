@@ -8,6 +8,12 @@ Permet de valider un changement dans sa branche avec un message qui lui est asso
 
 *Lien de documentation : https://git-scm.com/docs/git-commit*
 
+## status
+
+Permet de le status de la branche actuelle.
+
+*Lien de documentation : https://git-scm.com/docs/git-status*
+
 ## checkout
 
 Permet de changer de branche de travail, ou bien de la créer.
