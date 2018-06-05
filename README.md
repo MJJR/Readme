@@ -1,4 +1,4 @@
-# ***Quelques commandes utiles de git***
+# *__Quelques commandes utiles de git__*
 
 
 ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png)
