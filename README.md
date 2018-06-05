@@ -10,19 +10,19 @@ Lien de documentation : https://git-scm.com/docs/git-commit
 
 ## checkout
 
-Permet de changer de branche de travail ou bien de la créer.
+Permet de changer de branche de travail, ou bien de la créer.
 
 Lien de documentation : https://git-scm.com/docs/git-commit
 
 ## branch
 
-Permet de lister ou de supprimer des branches.
+Permet de lister, ou de supprimer des branches.
 
 Lien de documentation : https://git-scm.com/docs/git-branch
 
 
 ## clean
 
-Supprime tous les fichiers qui ne sont pas suivis dans le projets git
+Supprime tous les fichiers qui ne sont pas 'suivis' dans le projets git.
 
 Lien de documentation : https://git-scm.com/docs/git-clean
