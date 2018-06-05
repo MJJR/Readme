@@ -6,23 +6,23 @@
 
 Permet de valider un changement dans sa branche avec un message qui lui est associé.
 
-Lien de documentation : https://git-scm.com/docs/git-commit
+*Lien de documentation : https://git-scm.com/docs/git-commit*
 
 ## checkout
 
 Permet de changer de branche de travail, ou bien de la créer.
 
-Lien de documentation : https://git-scm.com/docs/git-commit
+*Lien de documentation : https://git-scm.com/docs/git-commit*
 
 ## branch
 
 Permet de lister, ou de supprimer des branches.
 
-Lien de documentation : https://git-scm.com/docs/git-branch
+*Lien de documentation : https://git-scm.com/docs/git-branch*
 
 
 ## clean
 
 Supprime tous les fichiers qui ne sont pas 'suivis' dans le projets git.
 
-Lien de documentation : https://git-scm.com/docs/git-clean
+*Lien de documentation : https://git-scm.com/docs/git-clean*
