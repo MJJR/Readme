@@ -4,6 +4,7 @@
 
 ## [commit -m]
 Permet de valider un changement dans sa branche avec un message qui lui est associé.
+
 Lien (partie *Committing Your Changes* ): https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 
 ## [checkout]
